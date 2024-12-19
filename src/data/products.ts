@@ -1,5 +1,3 @@
-import { beauty, books, electronic, fashion, sports} from './products';
-
 export const products = [
   // Electronics
   {
