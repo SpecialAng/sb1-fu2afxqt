@@ -34,10 +34,19 @@ export const products = [
     image: 'https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80',
     category: 'electronics'
   },
+  {
+    id: '5',
+    name: 'Laptop Gaming Pro',
+    price: 15999000,
+    description: 'Laptop gaming dengan performa tinggi',
+    image: 'https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=800&q=80',
+    category: 'electronics',
+    featured: true
+  },
 
   // Fashion
   {
-    id: '5',
+    id: '6',
     name: 'Tas Ransel Kulit',
     price: 899000,
     description: 'Tas ransel kulit premium dengan desain elegan',
@@ -45,7 +54,7 @@ export const products = [
     category: 'fashion'
   },
   {
-    id: '6',
+    id: '7',
     name: 'Jaket Denim Premium',
     price: 799000,
     description: 'Jaket denim klasik dengan potongan modern',
@@ -53,7 +62,7 @@ export const products = [
     category: 'fashion'
   },
   {
-    id: '7',
+    id: '8',
     name: 'Sepatu Sneakers Casual',
     price: 1299000,
     description: 'Sepatu sneakers nyaman dengan gaya modern',
@@ -62,7 +71,7 @@ export const products = [
     featured: true
   },
   {
-    id: '8',
+    id: '9',
     name: 'Kacamata Fashion UV',
     price: 599000,
     description: 'Kacamata fashion dengan perlindungan UV premium',
@@ -72,7 +81,7 @@ export const products = [
 
   // Home & Living
   {
-    id: '9',
+    id: '10',
     name: 'Sofa Modern 3 Dudukan',
     price: 8999000,
     description: 'Sofa modern untuk ruang tamu Anda',
@@ -81,7 +90,7 @@ export const products = [
     featured: true
   },
   {
-    id: '10',
+    id: '11',
     name: 'Lampu Meja LED',
     price: 399000,
     description: 'Lampu meja LED dengan kecerahan yang dapat diatur',
@@ -89,7 +98,7 @@ export const products = [
     category: 'home'
   },
   {
-    id: '11',
+    id: '12',
     name: 'Set Bantal Sofa',
     price: 299000,
     description: 'Set bantal sofa dekoratif (2 pieces)',
@@ -97,7 +106,7 @@ export const products = [
     category: 'home'
   },
   {
-    id: '12',
+    id: '13',
     name: 'Lukisan Dinding Modern',
     price: 799000,
     description: 'Lukisan dinding abstrak modern',
@@ -107,7 +116,7 @@ export const products = [
 
   // Sports
   {
-    id: '13',
+    id: '14',
     name: 'Sepatu Lari Pro',
     price: 1599000,
     description: 'Sepatu lari dengan teknologi cushioning terbaru',
@@ -116,7 +125,7 @@ export const products = [
     featured: true
   },
   {
-    id: '14',
+    id: '15',
     name: 'Matras Yoga Premium',
     price: 299000,
     description: 'Matras yoga anti slip berkualitas tinggi',
