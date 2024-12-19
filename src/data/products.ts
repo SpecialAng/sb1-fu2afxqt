@@ -133,7 +133,7 @@ export const products = [
     category: 'sports'
   },
   {
-    id: '15',
+    id: '16',
     name: 'Set Resistance Band',
     price: 249000,
     description: 'Set 5 resistance band untuk latihan di rumah',
@@ -141,7 +141,7 @@ export const products = [
     category: 'sports'
   },
   {
-    id: '16',
+    id: '17',
     name: 'Botol Minum Olahraga',
     price: 199000,
     description: 'Botol minum stainless steel dengan insulasi',
